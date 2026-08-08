@@ -23,7 +23,7 @@ They're deterministic on purpose. Because the same input always gives the same r
 
 ## What I'm working on
 
-**AI Evaluation & Safety** — Active across multiple frontier-LLM evaluation and safety platforms since 2024: [Snorkel AI](https://snorkel.ai), [Alignerr](https://www.alignerr.com), [Mercor](https://mercor.com), Meridian (Invisible), RemoteXperts, and [LinkedIn's expert verification program](https://www.linkedin.com/help/linkedin/answer/a1672216). Covers AI red-teaming, prompt-injection assessment, AI agent evaluation (reward-hacking detection, evaluator manipulation), adversarial test design, and rubric design. NDA-compliant portfolio in [`ai-evaluation-safety-portfolio`](https://github.com/chima-ukachukwu-sec/ai-evaluation-safety-portfolio).
+**AI Evaluation & Safety** — Active across multiple frontier-LLM evaluation and safety platforms since 2024: [Snorkel AI](https://snorkel.ai), [Alignerr](https://www.alignerr.com), [Mercor](https://mercor.com), Meridian (Invisible), RemoteXperts, and LinkedIn's expert verification program. Covers AI red-teaming, prompt-injection assessment, AI agent evaluation (reward-hacking detection, evaluator manipulation), adversarial test design, and rubric design. NDA-compliant portfolio in [`ai-evaluation-safety-portfolio`](https://github.com/chima-ukachukwu-sec/ai-evaluation-safety-portfolio).
 
 **SOC & Defensive Operations** — Splunk, MISP, threat intelligence automation. Background includes a Hobby Lobby Corporate IS network security internship and three years of M365 / Intune / Active Directory administration. Methodology in [`soc-defensive-portfolio`](https://github.com/chima-ukachukwu-sec/soc-defensive-portfolio).
 
